@@ -3,3 +3,5 @@ this is a sample file
 adding a new feature
 
 adding feature 2
+
+feature 3
